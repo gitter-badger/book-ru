@@ -6,6 +6,8 @@ project that took place at the Institute for Advanced Study in 2012/13.
 
 ## License
 
+[![Join the chat at https://gitter.im/BeiZero/book-ru](https://badges.gitter.im/BeiZero/book-ru.svg)](https://gitter.im/BeiZero/book-ru?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This work is licensed under the
 [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
